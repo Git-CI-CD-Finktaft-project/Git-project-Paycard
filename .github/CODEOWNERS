@@ -1,0 +1,15 @@
+# CODEOWNERS file
+# Format: <path>  <owner(s)>
+
+# Dev branch owners
+dev/*     @Git-CI-CD-Finktaft-project/Dev
+
+# QA branch owners
+qa/*      @Git-CI-CD-Finktaft-project/QA
+
+# Main branch owners (Production)
+main/*    @Git-CI-CD-Finktaft-project/Release
+
+# Optional: Assign entire repo to a fallback team
+*         @Git-CI-CD-Finktaft-project/Dev
+
